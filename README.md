@@ -108,7 +108,7 @@ The image data that was used for this project is CAD MRI images.(https://www.kag
 ## For more projects visit my website
 Click on image to play :point_down:
 
-[![Coronary artery disease prediction | Web App Demo (Flask)](https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2017/12/ai-brain-research-huawei-artificial-intelligence.jpg)](https://www.samerkharboush.tk/)
+[![Coronary artery disease prediction | Web App Demo (Flask)](https://www.hospitaltimes.co.uk/wp-content/uploads/2019/04/heart-image-2L.jpg)](https://www.samerkharboush.tk/)
 
 
 
