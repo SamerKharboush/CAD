@@ -105,9 +105,13 @@ CAD prediction using Web App (Flask) that can classify if the subjects is a CAD 
 The image data that was used for this project is CAD MRI images.(https://www.kaggle.com/danialsharifrazi/cad-cardiac-mri-dataset)
 
 ## For more projects visit my website
+
+https://www.samerkharboush.tk/
+
+## play the demo video to explain the project
 Click on image to play :point_down:
 
-[![Coronary artery disease prediction | Web App Demo (Flask)](https://www.hospitaltimes.co.uk/wp-content/uploads/2019/04/heart-image-2L.jpg)](https://www.samerkharboush.tk/)
+[![Coronary artery disease prediction | Web App Demo (Flask)](https://www.hospitaltimes.co.uk/wp-content/uploads/2019/04/heart-image-2L.jpg)](https://youtu.be/VMriHe36X10)
 
 
 
