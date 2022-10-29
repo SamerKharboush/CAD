@@ -1,6 +1,5 @@
 # CAD 
 
-In this notebook, you’ll have a machine learning model for predicting antibiotic resistance in bacteria.
 What is coronary artery disease?
 Coronary artery disease (CAD) is the most common type of heart disease in the United States. It is sometimes called coronary heart disease or ischemic heart disease.
 
